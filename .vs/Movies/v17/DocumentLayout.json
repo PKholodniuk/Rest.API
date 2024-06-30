@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\38067\\source\\repos\\Movies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7F8B10-BB21-4D8F-9805-E959FD4FC796}|Movies\\Movies.csproj|c:\\users\\38067\\source\\repos\\movies\\movies\\controllers\\miviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7F8B10-BB21-4D8F-9805-E959FD4FC796}|Movies\\Movies.csproj|solutionrelative:movies\\controllers\\miviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706EFE4-8F8A-41C8-B671-B79C36CF1581}|Movies.Application\\Movies.Application.csproj|c:\\users\\38067\\source\\repos\\movies\\movies.application\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706EFE4-8F8A-41C8-B671-B79C36CF1581}|Movies.Application\\Movies.Application.csproj|solutionrelative:movies.application\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7F8B10-BB21-4D8F-9805-E959FD4FC796}|Movies\\Movies.csproj|c:\\users\\38067\\source\\repos\\movies\\movies\\apiendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7F8B10-BB21-4D8F-9805-E959FD4FC796}|Movies\\Movies.csproj|solutionrelative:movies\\apiendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7F8B10-BB21-4D8F-9805-E959FD4FC796}|Movies\\Movies.csproj|c:\\users\\38067\\source\\repos\\movies\\movies\\mapping\\contarctmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7F8B10-BB21-4D8F-9805-E959FD4FC796}|Movies\\Movies.csproj|solutionrelative:movies\\mapping\\contarctmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706EFE4-8F8A-41C8-B671-B79C36CF1581}|Movies.Application\\Movies.Application.csproj|c:\\users\\38067\\source\\repos\\movies\\movies.application\\applicationservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706EFE4-8F8A-41C8-B671-B79C36CF1581}|Movies.Application\\Movies.Application.csproj|solutionrelative:movies.application\\applicationservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEE4C24-5D8E-4FFA-A02B-61F7BAE8E9FA}|Movies.Contracts\\Movies.Contracts.csproj|c:\\users\\38067\\source\\repos\\movies\\movies.contracts\\responses\\moviesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BEE4C24-5D8E-4FFA-A02B-61F7BAE8E9FA}|Movies.Contracts\\Movies.Contracts.csproj|solutionrelative:movies.contracts\\responses\\moviesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEE4C24-5D8E-4FFA-A02B-61F7BAE8E9FA}|Movies.Contracts\\Movies.Contracts.csproj|c:\\users\\38067\\source\\repos\\movies\\movies.contracts\\requests\\createmovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BEE4C24-5D8E-4FFA-A02B-61F7BAE8E9FA}|Movies.Contracts\\Movies.Contracts.csproj|solutionrelative:movies.contracts\\requests\\createmovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706EFE4-8F8A-41C8-B671-B79C36CF1581}|Movies.Application\\Movies.Application.csproj|c:\\users\\38067\\source\\repos\\movies\\movies.application\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706EFE4-8F8A-41C8-B671-B79C36CF1581}|Movies.Application\\Movies.Application.csproj|solutionrelative:movies.application\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEE4C24-5D8E-4FFA-A02B-61F7BAE8E9FA}|Movies.Contracts\\Movies.Contracts.csproj|c:\\users\\38067\\source\\repos\\movies\\movies.contracts\\responses\\movieresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BEE4C24-5D8E-4FFA-A02B-61F7BAE8E9FA}|Movies.Contracts\\Movies.Contracts.csproj|solutionrelative:movies.contracts\\responses\\movieresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BEE4C24-5D8E-4FFA-A02B-61F7BAE8E9FA}|Movies.Contracts\\Movies.Contracts.csproj|c:\\users\\38067\\source\\repos\\movies\\movies.contracts\\requests\\updatemovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BEE4C24-5D8E-4FFA-A02B-61F7BAE8E9FA}|Movies.Contracts\\Movies.Contracts.csproj|solutionrelative:movies.contracts\\requests\\updatemovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7F8B10-BB21-4D8F-9805-E959FD4FC796}|Movies\\Movies.csproj|c:\\users\\38067\\source\\repos\\movies\\movies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7F8B10-BB21-4D8F-9805-E959FD4FC796}|Movies\\Movies.csproj|solutionrelative:movies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8706EFE4-8F8A-41C8-B671-B79C36CF1581}|Movies.Application\\Movies.Application.csproj|c:\\users\\38067\\source\\repos\\movies\\movies.application\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8706EFE4-8F8A-41C8-B671-B79C36CF1581}|Movies.Application\\Movies.Application.csproj|solutionrelative:movies.application\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiviesController.cs",
+              "DocumentMoniker": "C:\\Users\\38067\\source\\repos\\Movies\\Movies\\Controllers\\MiviesController.cs",
+              "RelativeDocumentMoniker": "Movies\\Controllers\\MiviesController.cs",
+              "ToolTip": "C:\\Users\\38067\\source\\repos\\Movies\\Movies\\Controllers\\MiviesController.cs",
+              "RelativeToolTip": "Movies\\Controllers\\MiviesController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:54:59.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesResponse.cs",
+              "DocumentMoniker": "C:\\Users\\38067\\source\\repos\\Movies\\Movies.Contracts\\Responses\\MoviesResponse.cs",
+              "RelativeDocumentMoniker": "Movies.Contracts\\Responses\\MoviesResponse.cs",
+              "ToolTip": "C:\\Users\\38067\\source\\repos\\Movies\\Movies.Contracts\\Responses\\MoviesResponse.cs",
+              "RelativeToolTip": "Movies.Contracts\\Responses\\MoviesResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:27:02.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\38067\\source\\repos\\Movies\\Movies.Application\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Movies.Application\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\38067\\source\\repos\\Movies\\Movies.Application\\Models\\Movie.cs",
+              "RelativeToolTip": "Movies.Application\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:31:20.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\38067\\source\\repos\\Movies\\Movies\\ApiEndpoints.cs",
+              "RelativeDocumentMoniker": "Movies\\ApiEndpoints.cs",
+              "ToolTip": "C:\\Users\\38067\\source\\repos\\Movies\\Movies\\ApiEndpoints.cs",
+              "RelativeToolTip": "Movies\\ApiEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T19:13:25.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\38067\\source\\repos\\Movies\\Movies.Application\\ApplicationServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Movies.Application\\ApplicationServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\38067\\source\\repos\\Movies\\Movies.Application\\ApplicationServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Movies.Application\\ApplicationServiceCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:50:20.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContarctMapping.cs",
+              "DocumentMoniker": "C:\\Users\\38067\\source\\repos\\Movies\\Movies\\Mapping\\ContarctMapping.cs",
+              "RelativeDocumentMoniker": "Movies\\Mapping\\ContarctMapping.cs",
+              "ToolTip": "C:\\Users\\38067\\source\\repos\\Movies\\Movies\\Mapping\\ContarctMapping.cs",
+              "RelativeToolTip": "Movies\\Mapping\\ContarctMapping.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvyoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T18:23:41.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\38067\\source\\repos\\Movies\\Movies.Application\\Repositories\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Movies.Application\\Repositories\\IMovieRepository.cs",
+              "ToolTip": "C:\\Users\\38067\\source\\repos\\Movies\\Movies.Application\\Repositories\\IMovieRepository.cs",
+              "RelativeToolTip": "Movies.Application\\Repositories\\IMovieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:30:05.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieResponse.cs",
+              "DocumentMoniker": "C:\\Users\\38067\\source\\repos\\Movies\\Movies.Contracts\\Responses\\MovieResponse.cs",
+              "RelativeDocumentMoniker": "Movies.Contracts\\Responses\\MovieResponse.cs",
+              "ToolTip": "C:\\Users\\38067\\source\\repos\\Movies\\Movies.Contracts\\Responses\\MovieResponse.cs",
+              "RelativeToolTip": "Movies.Contracts\\Responses\\MovieResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:25:40.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateMovieRequest.cs",
+              "DocumentMoniker": "C:\\Users\\38067\\source\\repos\\Movies\\Movies.Contracts\\Requests\\CreateMovieRequest.cs",
+              "RelativeDocumentMoniker": "Movies.Contracts\\Requests\\CreateMovieRequest.cs",
+              "ToolTip": "C:\\Users\\38067\\source\\repos\\Movies\\Movies.Contracts\\Requests\\CreateMovieRequest.cs",
+              "RelativeToolTip": "Movies.Contracts\\Requests\\CreateMovieRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:20:14.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateMovieRequest.cs",
+              "DocumentMoniker": "C:\\Users\\38067\\source\\repos\\Movies\\Movies.Contracts\\Requests\\UpdateMovieRequest.cs",
+              "RelativeDocumentMoniker": "Movies.Contracts\\Requests\\UpdateMovieRequest.cs",
+              "ToolTip": "C:\\Users\\38067\\source\\repos\\Movies\\Movies.Contracts\\Requests\\UpdateMovieRequest.cs",
+              "RelativeToolTip": "Movies.Contracts\\Requests\\UpdateMovieRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:24:24.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\38067\\source\\repos\\Movies\\Movies\\Program.cs",
+              "RelativeDocumentMoniker": "Movies\\Program.cs",
+              "ToolTip": "C:\\Users\\38067\\source\\repos\\Movies\\Movies\\Program.cs",
+              "RelativeToolTip": "Movies\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:05:25.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\38067\\source\\repos\\Movies\\Movies.Application\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Movies.Application\\Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\Users\\38067\\source\\repos\\Movies\\Movies.Application\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "Movies.Application\\Repositories\\MovieRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:30:28.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

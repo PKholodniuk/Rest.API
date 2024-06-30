@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lo7bY8lT0Pk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\38067\\source\\repos\\Movies\\Movies.Application\\Movies.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\38067\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-preview.5.24306.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.5.24306.7.nupkg.sha512"
+  ],
+  "logs": []
+}
